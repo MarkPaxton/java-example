@@ -1,0 +1,4 @@
+[
+{ "product": "apple", "buy": 1, "free":1},
+{ "product": "orange", "buy":2, "free":1},
+]
